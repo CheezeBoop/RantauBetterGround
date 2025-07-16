@@ -1,95 +1,47 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.Rendering;
 public class PlayerMovement : MonoBehaviour
 {
-    private Rigidbody2D rb;
-    private Animator animator;
-    public float moveSpeed = 100f;
-    private Vector2 input;
+    public float moveSpeed = 5f;
+    public Rigidbody2D rb;
+    public Animator animator;
 
+    Vector2 movement;
+    Vector2 lastMove;
 
-    private void Start()
+    void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
-
-        if (CoinManager.Instance != null)
-        {
-            CoinManager.Instance.UpdateUI();
-        }
-        else
-        {
-            Debug.LogError("CoinManager.Instance masih null di PlayerMovement!");
-        }
+        // Awal idle ngadep bawah
+        lastMove = new Vector2(0f, -1f);
+        animator.SetFloat("lastMoveX", lastMove.x);
+        animator.SetFloat("lastMoveY", lastMove.y);
     }
 
-    private void Update()
+    void Update()
     {
-        input.x = Input.GetAxisRaw("Horizontal");
-        input.y = Input.GetAxisRaw("Vertical");
+        // Ambil input
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
+        movement.Normalize();
 
-        // Tambah koin manual untuk testing
-        if (Input.GetKeyDown(KeyCode.K))
+        // Update lastMove kalau lagi gerak
+        if (movement != Vector2.zero)
         {
-            Debug.Log("Tombol K ditekan!");
-            if (CoinManager.Instance != null)
-            {
-                CoinManager.Instance.AddCoins(10000);
-                Debug.Log("Tambah 5000 koin dari player");
-            }
-            else
-            {
-                Debug.LogError("CoinManager.Instance = null");
-            }
+            lastMove = movement;
         }
 
-         // Deteksi manual jika player menyentuh object "asep"
-    Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, 0.5f);
-    foreach (Collider2D hit in hits)
-    {
-        if (hit.name == "Asep")
-        {
-            Debug.Log("Menyentuh asep, tambahkan koin!");
-            if (CoinManager.Instance != null)
-            {
-                CoinManager.Instance.AddCoins(1000);
-                Debug.Log("Koin ditambah 1000!");
-            }
-
-            Destroy(hit.gameObject);
-            break; // keluar dari loop agar tidak double
-        }
-    }
+        // Kirim data ke Animator
+        animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
+        animator.SetFloat("lastMoveX", lastMove.x);
+        animator.SetFloat("lastMoveY", lastMove.y);
+        animator.SetFloat("Speed", movement.sqrMagnitude); // <--- INI perubahan penting
     }
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
-        if (input.x != 0) input.y = 0;
-
-        rb.linearVelocity = new Vector2(input.x, input.y).normalized * moveSpeed * Time.fixedDeltaTime;
-
-        if (rb.linearVelocity != Vector2.zero)
-        {
-            animator.SetFloat("moveX", rb.linearVelocity.x);
-            animator.SetFloat("moveY", rb.linearVelocity.y);
-            animator.SetBool("moving", true);
-        }
-        else
-        {
-            animator.SetBool("moving", false);
-        }
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Coin"))
-        {
-            if (CoinManager.Instance != null)
-            {
-                CoinManager.Instance.AddCoins(1000); // Ambil 1000 dari koin
-            }
-
-            Destroy(collision.gameObject);
-        }
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 }

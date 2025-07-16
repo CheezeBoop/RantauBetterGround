@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: e8a98061b903f9a48bf9b00c2af3d925
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7999859338877252782
+    second: 23_Tevelision_and_Film_Studio_0
+  - first:
+      213: -5800903490587080432
+    second: 23_Tevelision_and_Film_Studio_1
+  - first:
+      213: 1956065214599782858
+    second: 23_Tevelision_and_Film_Studio_2
+  - first:
+      213: -2115281924947932073
+    second: 23_Tevelision_and_Film_Studio_3
+  - first:
+      213: -1748980795661290203
+    second: 23_Tevelision_and_Film_Studio_4
+  - first:
+      213: -1076001019209334746
+    second: 23_Tevelision_and_Film_Studio_5
+  - first:
+      213: -4746729974278727284
+    second: 23_Tevelision_and_Film_Studio_6
+  - first:
+      213: -8600158181129445451
+    second: 23_Tevelision_and_Film_Studio_7
+  - first:
+      213: 567951478433529230
+    second: 23_Tevelision_and_Film_Studio_8
+  - first:
+      213: 8946471795782013326
+    second: 23_Tevelision_and_Film_Studio_9
+  - first:
+      213: 8209396338372413880
+    second: 23_Tevelision_and_Film_Studio_10
+  - first:
+      213: -6551470263191967054
+    second: 23_Tevelision_and_Film_Studio_11
+  - first:
+      213: -899025906000100602
+    second: 23_Tevelision_and_Film_Studio_12
+  - first:
+      213: -3256765053947734396
+    second: 23_Tevelision_and_Film_Studio_13
+  - first:
+      213: -18875516497501943
+    second: 23_Tevelision_and_Film_Studio_14
+  - first:
+      213: 8862207051098657445
+    second: 23_Tevelision_and_Film_Studio_15
+  - first:
+      213: 4192255947434097413
+    second: 23_Tevelision_and_Film_Studio_16
+  - first:
+      213: 4914965052219996530
+    second: 23_Tevelision_and_Film_Studio_17
+  - first:
+      213: 3129239676243770383
+    second: 23_Tevelision_and_Film_Studio_18
+  - first:
+      213: -5305715800562643398
+    second: 23_Tevelision_and_Film_Studio_19
+  - first:
+      213: -4331119681758689483
+    second: 23_Tevelision_and_Film_Studio_20
+  - first:
+      213: 8313505896053562559
+    second: 23_Tevelision_and_Film_Studio_21
+  - first:
+      213: 3915967765431459079
+    second: 23_Tevelision_and_Film_Studio_22
+  - first:
+      213: 5744488449308349349
+    second: 23_Tevelision_and_Film_Studio_23
+  - first:
+      213: -7891196777726959598
+    second: 23_Tevelision_and_Film_Studio_24
+  - first:
+      213: -1738112240121125837
+    second: 23_Tevelision_and_Film_Studio_25
+  - first:
+      213: -4181103471138258172
+    second: 23_Tevelision_and_Film_Studio_26
+  - first:
+      213: -1287066291053337981
+    second: 23_Tevelision_and_Film_Studio_27
+  - first:
+      213: 2623783490065986435
+    second: 23_Tevelision_and_Film_Studio_28
+  - first:
+      213: -7334717836580275468
+    second: 23_Tevelision_and_Film_Studio_29
+  - first:
+      213: -9039751146548518087
+    second: 23_Tevelision_and_Film_Studio_30
+  - first:
+      213: -1854360214479387741
+    second: 23_Tevelision_and_Film_Studio_31
+  - first:
+      213: -2974674202412291337
+    second: 23_Tevelision_and_Film_Studio_32
+  - first:
+      213: 7652463518534281032
+    second: 23_Tevelision_and_Film_Studio_33
+  - first:
+      213: -6340430278985618183
+    second: 23_Tevelision_and_Film_Studio_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b412df05acaf090800000000000000
+      internalID: -7999859338877252782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019cb33820d0f7fa0800000000000000
+      internalID: -5800903490587080432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 195
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e7b1f2f6552b10800000000000000
+      internalID: 1956065214599782858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 183
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c8ca7eb4205a2e0800000000000000
+      internalID: -2115281924947932073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 183
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f0ab9b3f5ab7e0800000000000000
+      internalID: -1748980795661290203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 185
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620c11026c64111f0800000000000000
+      internalID: -1076001019209334746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 207
+        width: 84
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89da66dc3a302eb0800000000000000
+      internalID: -4746729974278727284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 185
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf1c9923b916a880800000000000000
+      internalID: -8600158181129445451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d30b94cd4c1e700800000000000000
+      internalID: 567951478433529230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 183
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8153a4a2b0482c70800000000000000
+      internalID: 8946471795782013326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 191
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b984197972ade170800000000000000
+      internalID: 8209396338372413880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba68edb1808415a0800000000000000
+      internalID: -6551470263191967054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 160
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038df4a3b40683f0800000000000000
+      internalID: -899025906000100602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4861a824075adc2d0800000000000000
+      internalID: -3256765053947734396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 153
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901e63851d0fcbff0800000000000000
+      internalID: -18875516497501943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a292b6eb52ecfa70800000000000000
+      internalID: 8862207051098657445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf35a9292ed2a30800000000000000
+      internalID: 4192255947434097413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2793805aca6753440800000000000000
+      internalID: 4914965052219996530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 145
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7197f7ea4d6b20800000000000000
+      internalID: 3129239676243770383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 145
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e494c179f4e56b0800000000000000
+      internalID: -5305715800562643398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 113
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5370211c895c4e3c0800000000000000
+      internalID: -4331119681758689483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 113
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc536cc0918f5370800000000000000
+      internalID: 8313505896053562559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d1c6a5fef485630800000000000000
+      internalID: 3915967765431459079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 121
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3db5d1fc588bf40800000000000000
+      internalID: 5744488449308349349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a0ea0756dc7290800000000000000
+      internalID: -7891196777726959598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 18
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33462d3602cf0e7e0800000000000000
+      internalID: -1738112240121125837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 89
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403c6a1ab8cb9f5c0800000000000000
+      internalID: -4181103471138258172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382e267070c632ee0800000000000000
+      internalID: -1287066291053337981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 76
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383faecce2d896420800000000000000
+      internalID: 2623783490065986435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa39e61df8d53a90800000000000000
+      internalID: -7334717836580275468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 32
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933ab041a3a5c8280800000000000000
+      internalID: -9039751146548518087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 44
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c652b53df346e0800000000000000
+      internalID: -1854360214479387741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa62bac295d7b6d0800000000000000
+      internalID: -2974674202412291337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8472fde8603033a60800000000000000
+      internalID: 7652463518534281032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_Tevelision_and_Film_Studio_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6ee911444208a0800000000000000
+      internalID: -6340430278985618183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      23_Tevelision_and_Film_Studio_0: -7999859338877252782
+      23_Tevelision_and_Film_Studio_1: -5800903490587080432
+      23_Tevelision_and_Film_Studio_10: 8209396338372413880
+      23_Tevelision_and_Film_Studio_11: -6551470263191967054
+      23_Tevelision_and_Film_Studio_12: -899025906000100602
+      23_Tevelision_and_Film_Studio_13: -3256765053947734396
+      23_Tevelision_and_Film_Studio_14: -18875516497501943
+      23_Tevelision_and_Film_Studio_15: 8862207051098657445
+      23_Tevelision_and_Film_Studio_16: 4192255947434097413
+      23_Tevelision_and_Film_Studio_17: 4914965052219996530
+      23_Tevelision_and_Film_Studio_18: 3129239676243770383
+      23_Tevelision_and_Film_Studio_19: -5305715800562643398
+      23_Tevelision_and_Film_Studio_2: 1956065214599782858
+      23_Tevelision_and_Film_Studio_20: -4331119681758689483
+      23_Tevelision_and_Film_Studio_21: 8313505896053562559
+      23_Tevelision_and_Film_Studio_22: 3915967765431459079
+      23_Tevelision_and_Film_Studio_23: 5744488449308349349
+      23_Tevelision_and_Film_Studio_24: -7891196777726959598
+      23_Tevelision_and_Film_Studio_25: -1738112240121125837
+      23_Tevelision_and_Film_Studio_26: -4181103471138258172
+      23_Tevelision_and_Film_Studio_27: -1287066291053337981
+      23_Tevelision_and_Film_Studio_28: 2623783490065986435
+      23_Tevelision_and_Film_Studio_29: -7334717836580275468
+      23_Tevelision_and_Film_Studio_3: -2115281924947932073
+      23_Tevelision_and_Film_Studio_30: -9039751146548518087
+      23_Tevelision_and_Film_Studio_31: -1854360214479387741
+      23_Tevelision_and_Film_Studio_32: -2974674202412291337
+      23_Tevelision_and_Film_Studio_33: 7652463518534281032
+      23_Tevelision_and_Film_Studio_34: -6340430278985618183
+      23_Tevelision_and_Film_Studio_4: -1748980795661290203
+      23_Tevelision_and_Film_Studio_5: -1076001019209334746
+      23_Tevelision_and_Film_Studio_6: -4746729974278727284
+      23_Tevelision_and_Film_Studio_7: -8600158181129445451
+      23_Tevelision_and_Film_Studio_8: 567951478433529230
+      23_Tevelision_and_Film_Studio_9: 8946471795782013326
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
