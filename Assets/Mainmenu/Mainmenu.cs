@@ -8,7 +8,7 @@ public class Mainmenu : MonoBehaviour
 
     public void OnStartClick()
     {
-        SceneManager.LoadScene("MainMap");
+        SceneManager.LoadScene("City");
     }
 
     // Update is called once per frame
