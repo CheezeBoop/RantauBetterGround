@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/City.unity
     guid: bed649e4f0e82384ca2e8fbbeb9503e8
+  - enabled: 1
+    path: Assets/Scenes/BoardingHouse.unity
+    guid: 34acfcbc17b9a4b499f802f366a653dd
+  - enabled: 1
+    path: Assets/Scenes/BedRoom.unity
+    guid: a002cc713778f3649a5ca934cc19943d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

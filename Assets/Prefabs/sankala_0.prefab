@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3611622511070036864}
   m_Layer: 0
   m_Name: sankala_0
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 8650461338165093337}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.32, y: -1.72, z: 0}
+  m_LocalPosition: {x: -0.41, y: -2.66, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -77,9 +77,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -2038358505
+  m_SortingLayer: 4
+  m_SortingOrder: 1
   m_Sprite: {fileID: -3341991536059416719, guid: 369f22d65d7f74e4bab09dd61a29f4b7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -104,7 +104,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinText: {fileID: 0}
-  moveSpeed: 5
+  moveSpeed: 10
   rb: {fileID: 6832034130715990554}
   animator: {fileID: 7847537778481678060}
   interactRadius: 1.5
@@ -191,7 +191,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.9000015}
+  m_Offset: {x: -0.009310961, y: -0.0018720627}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.05}
@@ -201,5 +201,5 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.6461823, y: 0.19625282}
   m_EdgeRadius: 0
