@@ -8,7 +8,7 @@ public class Mainmenu : MonoBehaviour
 
     public void OnStartClick()
     {
-        SceneManager.LoadScene("City");
+        SceneManager.LoadScene("CutScene");
     }
 
     // Update is called once per frame

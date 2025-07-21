@@ -3,13 +3,14 @@ using UnityEngine.SceneManagement;
 
 public class SceneTransitionTrigger : MonoBehaviour
 {
-    [Header("Nama Scene Tujuan")]
-    public string targetSceneName = "BedRoom"; 
+    public string targetSceneName;
+    public string spawnPointName;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
+            SpawnManager.nextSpawnPoint = spawnPointName;
             SceneManager.LoadScene(targetSceneName);
         }
     }

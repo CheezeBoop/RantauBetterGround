@@ -322,7 +322,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 500, y: 425}
+  m_SizeDelta: {x: 700, y: 470}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &93706372
 CanvasRenderer:
@@ -435,7 +435,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 500, y: 425}
+  m_SizeDelta: {x: 700, y: 470}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &740651683
 GameObject:
@@ -472,7 +472,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 500, y: 425}
+  m_SizeDelta: {x: 700, y: 470}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &740651685
 CanvasRenderer:
@@ -577,14 +577,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 17
+  m_fontSizeBase: 17
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -615,7 +615,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -146.25648, y: 0, z: -156.34308, w: -107.170586}
+  m_margin: {x: -222.64597, y: 0, z: -231.34299, w: -107.170586}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -645,7 +645,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4.1964645, y: -16.499756}
+  m_AnchoredPosition: {x: -2.6992884, y: -110.75496}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1291650333
@@ -762,18 +762,12 @@ MonoBehaviour:
   - {fileID: 587565442}
   subtitleText: {fileID: 1158741838}
   subtitles:
-  - Morning greetings in the Sankala bathroom. The sunlight penetrated through the
-    wooden window, illuminating a small suitcase that had been neatly packed next
-    to his bed. Sankala stood in silence, gazing at the simple room that had accompanied
-    her since childhood. Today, the first step towards containment will begin.
-  - In the warm family room, Sankala embraces both her parents. His mother held the
-    harpoon, while his father proudly slapped him on the shoulder. Not many words
-    are spoken but signals full of meaning. The morning silence is filled with love
-    and hope. Even though it was heavy, they let him go.
-  - Sankala stood amidst the hustle and bustle of a large bus terminal, clutching
-    her small suitcase. The atmosphere is busy, but his mind is calm. It was the
-    beginning of a long journey to leave home for a better future. In the distance,
-    a bus to dream town finally arrives.
+  - "The morning sun gently spilled into the quiet room.\nSankala sat on his bed,
+    eyes fixed on the packed suitcase.\nA new chapter\_was\_calling"
+  - "In the warmth of their modest home, Sankala stood with his parents.\nNo words
+    were spoken\u2014only soft smiles and a silent understanding.\nIt was time\_to\_say\_goodbye."
+  - "The city\u2019s bus station buzzed with distant voices and engines.\nSankala
+    waited alone, suitcase in hand, heart steady.\nThe journey\_had\_begun."
   timePerSlide: 5
   typingSpeed: 0.05
 --- !u!4 &1344629224
